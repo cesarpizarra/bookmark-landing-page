@@ -9,10 +9,10 @@ This repository contains my solution to the [Bookmark Landing Page](https://www.
 ## Screenshots
 
 ### Mobile View
-![Bookmark Landing Page - Mobile View](mobile-view.png)
+![Bookmark Landing Page - Mobile View](/screenshots/Mobile View.png)
 
 ### Desktop View
-![Bookmark Landing Page - Desktop View](desktop-view.png)
+![Bookmark Landing Page - Desktop View](/screenshots/Desktop View.png)
 
 ## How to Run the Project
 
