@@ -30,7 +30,7 @@ const Home = () => {
             </button>
           </div>
         </div>
-        {/* For image right */}
+        {/* For image right side */}
         <div className="md:pt-16 order-1 lg:order-2 relative flex justify-center items-center  ">
           <img src={HeroImage} alt="Hero Image" />;
           <div className="absolute top-[17%] lg:top-32  right-[-5%] -z-10 rounded-l-full bg-soft-blue h-[80%] w-[95%]" />
