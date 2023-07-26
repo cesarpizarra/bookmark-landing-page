@@ -39,6 +39,6 @@ Feedback and suggestions for improvements are always welcome. If you have any id
 
 ## Contact
 
-If you'd like to get in touch with me, you can reach me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+If you'd like to get in touch with me, you can reach me via email at [your-email@example.com](https://mail.google.com/mail/u/0/#inbox) or connect with me on [LinkedIn](https://www.linkedin.com/in/cesar-pizarra-610336258/).
 
 Thank you for checking out my solution! Happy coding!
