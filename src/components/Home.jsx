@@ -33,7 +33,7 @@ const Home = () => {
         {/* For image right */}
         <div className="md:pt-16 order-1 lg:order-2 relative flex justify-center items-center  ">
           <img src={HeroImage} alt="Hero Image" />;
-          <div className="absolute top-[17%] lg:top-32 left-[10%] -z-10 rounded-l-full bg-soft-blue h-[80%] w-screen lg:w-full" />
+          <div className="absolute top-[17%] lg:top-32  right-[-5%] -z-10 rounded-l-full bg-soft-blue h-[80%] w-[95%]" />
         </div>
       </div>
     </section>
