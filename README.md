@@ -20,7 +20,7 @@ This repository contains my solution to the [Bookmark Landing Page](https://www.
 2. Make sure you have Node.js installed.
 3. Open a terminal and navigate to the project's root directory.
 4. Run `npm install` to install the project dependencies.
-5. Run `npm start` to start the development server.
+5. Run `npm run dev` to start the development server.
 6. Open your web browser and visit `http://localhost:3000` to view the Bookmark Landing Page.
 
 ## Features
